@@ -11,7 +11,7 @@ Display the following key metrics in the report:
 - Views
 - Likes
 - CTR
-<br>
+
 Automate the report sending with Airflow. Place the code for generating the report in GitLab by following these steps:
 - Clone the repository
 - Inside the dags folder of your local copy, create a folder with the same name as your GitLab username, which should include the @ symbol
